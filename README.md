@@ -20,7 +20,9 @@ en = in
 definir = def
 retornar = return
 ```
-3) Ejecutar el archivo == exec.py ==
+3) Ejecutar el archivo **exec.py**
 4) Y listo!
 # Notas rapidas
 Este proyecto esta en fase alpha, asi que si tienes algun problema abre una Issue, y si quieres aportar al proyecto (ya sea agregando mas binds, puliendo el codigo, etc.), crea una Pull Request.
+
+PD. Si tienes un mejor nombre para el proyecto tambien crea una Pull Request.
